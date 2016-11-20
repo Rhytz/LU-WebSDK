@@ -100,7 +100,8 @@
 			$data = array(
 				'action' 		=> $action,
 				'params'		=> $params
-			);			
+			);
+			return $this->SendData($data);
 		}
 		
 		public function ServerInfo(){
