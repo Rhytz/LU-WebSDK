@@ -9,7 +9,7 @@
 const SECURE_KEY	= "SecureKey123";
 
 //Replace with the IP of your webserver
-const SECURE_IP 	= "212.238.172.246";
+const SECURE_IP 	= "123.123.123.123";
 
 //On what port should the server listen to requests from your PHP script?
 const LISTEN_PORT	= 2302;
